@@ -1,12 +1,5 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
+
 
 
 
@@ -23,7 +16,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="assets/b2b_cv.webp" alt="Logo" width="80" height="80">
+    <img src="docs/assets/b2b_cv.webp" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">B2B: Computer Vision</h3>
@@ -95,11 +88,22 @@ This project is under active development. The following topics are planned to be
 
 ## Project Structure
 
-The repository is organized into folders for better readability and organization.  Each folder will typically contain:
+### Directory Structure
 
-* **Notes:**  Concise summaries of key concepts and equations.
-* **Code:**  Example code implementations in Python (using libraries like OpenCV, scikit-image, and TensorFlow/PyTorch).
-* **Resources:**  Links to relevant online tutorials, papers, and other learning resources.
+```
+
+
+```
+
+### Usage Instruction
+
+- **For those who use Pipy**
+
+
+
+- **For those who want to use `uv`**
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
