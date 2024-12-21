@@ -1,0 +1,12 @@
+[project]
+name = "b2b-computervision"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "colorlog>=6.9.0",
+    "fastapi>=0.115.6",
+    "ruff>=0.8.3",
+    "ultralytics>=8.3.49",
+]
