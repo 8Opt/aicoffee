@@ -1,7 +1,0 @@
-.
-├── b2b_cv
-└── docs
-    ├── assets
-    └── notebooks
-
-5 directories

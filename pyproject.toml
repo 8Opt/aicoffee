@@ -7,6 +7,7 @@ requires-python = ">=3.10"
 dependencies = [
     "colorlog>=6.9.0",
     "fastapi>=0.115.6",
+    "pre-commit>=4.0.1",
     "ruff>=0.8.3",
     "ultralytics>=8.3.49",
 ]

@@ -15,7 +15,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/8Opt/aicoffee.git">
     <img src="assets/b2b_cv.webp" alt="Logo" width="80" height="80">
   </a>
 
